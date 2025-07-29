@@ -23,20 +23,20 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
 Aquí te presento algunos de mis proyectos recientes que demuestran mis habilidades:
 
-* ### 🥗 [**WeekFoods: Planificador Semanal de Comidas**](https://github.com/rdelgadodev/WeekFoods) (¡Enlace a tu repositorio de WeekFoods!)
+* ### 🥗 [**WeekFoods: Planificador Semanal de Comidas**](https://github.com/rdelgadodev/WeekFoods) 
     * **Tecnologías:** Python, Django, PostgreSQL, HTML, CSS, JavaScript.
     * **Descripción:** Aplicación web para la planificación semanal de comidas y cenas, con gestión de recetas, generación de lista de la compra y menús personalizados o filtrados por calorías y coste.
-    * *(Asegúrate de que el README de este repo esté actualizado y muestre tu logo RDM_logo.png en algún lugar, si quieres)*
+    
 
-* ### ✈️ [**Amigos en Ruta: Agencia de Viajes**](https://github.com/rdelgadodev/Amigos-en-Ruta) (¡Enlace a tu repositorio de Amigos en Ruta!)
+* ### ✈️ [**Amigos en Ruta: Agencia de Viajes**](https://github.com/rdelgadodev/Amigos-en-Ruta) 
     * **Tecnologías:** HTML, CSS, JavaScript.
     * **Descripción:** Página web de una agencia de viajes especializada en experiencias temáticas, diseñada para conectar personas con intereses comunes a través de aventuras inolvidables. Destaca por su diseño atractivo y secciones informativas.
 
-* ### 🎓 [**Forma-TIC: Centro de Formación**](https://github.com/rdelgadodev/Forma-TIC) (¡Enlace a tu repositorio de Forma-TIC!)
+* ### 🎓 [**Forma-TIC: Centro de Formación**](https://github.com/rdelgadodev/Forma-TIC) 
     * **Tecnologías:** HTML, CSS, JavaScript, Font Awesome, Google Fonts.
     * **Descripción:** Página web de un centro de formación tecnológica con un catálogo de cursos interactivo por categorías, información del centro, galería, blog y formulario de contacto. Muestra habilidades de maquetación y dinamismo.
 
-* ### 🎮 [**El Ahorcado: Juego Clásico**](https://github.com/rdelgadodev/Hangman-Game) (¡Enlace a tu repositorio de El Ahorcado!)
+* ### 🎮 [**El Ahorcado: Juego Clásico**](https://github.com/rdelgadodev/Hangman-Game)
     * **Tecnologías:** HTML, CSS, JavaScript.
     * **Descripción:** Implementación interactiva del clásico juego del ahorcado. Permite al usuario introducir una palabra y adivinarla letra a letra, con un contador de vidas y un tema visual distintivo estilo "Western".
 
