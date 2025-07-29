@@ -44,7 +44,7 @@ Aquí te presento algunos de mis proyectos recientes que demuestran mis habilida
 
 ¡Me encantaría conectar!
 
-* **LinkedIn:** [Tu perfil de LinkedIn](www.linkedin.com/in/rdelgadomolina)
-* **Correo Electrónico:** [tu.correo@ejemplo.com](mailto:rauldelgadomolina@gmail.com) 
+* **LinkedIn:** [www.linkedin.com/in/rdelgadomolina](www.linkedin.com/in/rdelgadomolina)
+* **Correo Electrónico:** [rauldelgadomolina@gmail.com](mailto:rauldelgadomolina@gmail.com) 
 
 
